@@ -26,10 +26,6 @@ masuk ke folder dashboard untuk install streamlit
 ```
 cd dashboard
 ```
-setelah masuk install streamlit
-```
-pip install streamlit
-```
 kemudian jalankan
 ```
 streamlit run dashboard.py
