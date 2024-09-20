@@ -5,7 +5,7 @@ setelah anda meng-install python maka clone terlebih dahulu repository-nya
 ## Setup
 
 ```
-git clone https://github.com/fanfanfw/submission_AnalisiDataStreamlit.git
+git clone https://github.com/fanfanfw/submissionAnalisisDataStreamlit.git
 ```
 setelah clone beres kemusian masuk ke folder repo nya dan tuliskan :
 
