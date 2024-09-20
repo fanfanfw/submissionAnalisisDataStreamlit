@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+.idea
+.venv
+*_dataset.csv
+*_name_translation.csv
